@@ -1,1 +1,2 @@
 manager file
+Modified file from newbranch
